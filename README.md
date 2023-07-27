@@ -1,6 +1,8 @@
 # Project Euler
 
-[Archive](https://projecteuler.net/archives)
+- [About](https://projecteuler.net)
+- [Archive](https://projecteuler.net/archives)
+- [Rule about publishing solutions](https://projecteuler.net/about#publish)
 
 ## Run
 
